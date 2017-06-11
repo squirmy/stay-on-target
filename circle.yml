@@ -22,4 +22,4 @@ deployment:
   prod:
     branch: master
     commands:
-      - aws s3 sync dist s3://aws-website-dojo-j25vf --delete
+      - aws s3 sync dist s3://aws-website-stay-on-target-grhp9 --delete
